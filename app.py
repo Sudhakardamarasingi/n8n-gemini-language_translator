@@ -7,7 +7,7 @@ import json
 # =========================
 
 N8N_WEBHOOK_URL = (
-    "https://sudha-mad-max-1997.app.n8n.cloud/webhook/cadf0c18-7c71-42cd-b878-894378064406"
+    "https://sudha-mad-max-1997.app.n8n.cloud/webhook-test/cadf0c18-7c71-42cd-b878-894378064406"
 
 )
 
